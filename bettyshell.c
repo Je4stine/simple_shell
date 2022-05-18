@@ -1,4 +1,4 @@
-#include "simishell.h"
+#include "shell.h"
 
 /**
  * copyarray - a function to copy string array to another string array variable
