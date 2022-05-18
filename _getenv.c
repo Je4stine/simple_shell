@@ -33,3 +33,4 @@ char *_getenv(char *global_var)
 	}
 	return (NULL);
 }
+

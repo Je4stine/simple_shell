@@ -78,3 +78,4 @@ unsetenv - Remove an environment variable
 
 # AUTHORS
 The `AUTHORS` file contains the details of all the individuals that contributed to this shell project
+
