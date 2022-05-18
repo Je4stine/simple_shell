@@ -1,4 +1,4 @@
-#include "simishell.h"
+#include "shell.h"
 
 /**
  * _getchar - a function that reads a character from the standard input
